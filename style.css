@@ -1,0 +1,321 @@
+body{
+    margin: 0;
+}
+
+*{
+    /* color: white;
+    margin: 0 auto; */
+    font-family: sans-serif;
+
+}
+.clr{
+
+    background-color: rgb(83, 119, 240);
+    height: 70px;
+    
+}
+.icons{
+    display: inline-block;
+    padding-left: 60px;
+
+}
+.icons1{
+    display: inline-block;
+    margin-left: 0;
+}
+.icons1>ul{
+    margin-right: 350px
+    margin-top: 0;
+    padding-right: 100px;
+    
+}
+.icons1> ul > li{
+    list-style: none;
+    display: inline-block;
+
+}
+
+.icons> ul > li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 5px 10px 5px;
+}
+a{
+    text-decoration: none;
+}
+nav>ul>li{
+    display: inline;
+    font-size: 20px;
+}
+
+
+.para{
+    color: white;
+    display: inline-block;
+    margin-left: 100px;
+    font-size: 18px;
+}
+.buttons{
+    color: black;
+    padding: 15px 15px;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 100px;
+    
+}
+.b{
+    font-size: px;
+}
+
+header{
+    background-color: rgb(225, 234, 234);
+    display: flex;
+    flex-direction: row;
+}
+.nav1{
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 250px;
+    margin-right: 0;
+
+}
+li{
+    color: black;
+}
+.saylani{
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navigation-button>:hover{
+
+background-color: rgb(6, 6, 124);
+
+}
+.navigation-button{
+    color: white;
+}
+.navigation-button>a{
+    color: white;
+}
+
+.intro-style{
+    color: blue;
+    text-align: center;
+    
+}
+.intro-style1{
+    color: green;
+
+    
+}
+
+.intro-style2{
+    text-align: center;
+}
+.intro{
+    color: green;
+}
+.introduction-para{
+    padding-top: 10px;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.Doing{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: blue;
+}
+#img, #img1, #img2, #img3{
+
+    height: 50px;
+    width: 50px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+display: block;
+
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+}
+#down,#down1,#down2,#down3{
+    margin-right: 20px;
+    font-size: 25px;
+    text-emphasis: bold;
+}
+#pdown,#pdown1,#pdown2,#pdown3{
+    color: white;
+    font-size: 30px;
+    padding-top: 0px;
+text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    text-emphasis: bold;
+margin-bottom: 5px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+
+}
+#pddown,#pddown1,#pddown2,#pddown3{
+    color: white;
+    padding-top: 0px;
+    font-size: 25px;
+    text-emphasis: bold;
+    margin-top: 0px;
+}
+.Btnss{
+display: flex;
+justify-content: center;
+}
+.btn-set1{
+ background-color: lightgray;
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: auto;
+margin-right: auto;
+display: block;
+padding: 30px 0;
+width: 400px;
+}
+.btn-set2{
+    margin-top: 20px;
+    font-size: 30px;
+    background-color: lightgray;
+    margin-left: auto;
+margin-right: auto;
+display: block;
+padding: 30px 0;
+width: 400px;
+}
+.btn-img{
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+margin-right: auto;
+display: block;
+
+}
+.btn-set1-p{
+    text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#Saaa
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  background-color: rgb(105, 105, 105);
+  margin-top: 40px;
+}
+#contact{
+  padding-left: 50px;
+padding-top: 30px;
+font-size: 20px;
+}
+
+#contact1{
+  padding-left: 50px;
+padding-top: 30px;
+font-size: 25px;
+}
+#sayy{
+display: inline;
+  background-image: url(https://img.icons8.com/material/4ac144/256/phone.png);
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-color: rgb(105, 105, 105);
+  padding-left: 25px;
+  font-size: 20px;
+cursor: pointer;
+} 
+#sayl{
+
+  cursor: pointer;
+  margin-left: 50px;
+}
+
+#sayy1{
+
+  background-image: url(https://img.pngio.com/green-email-5-icon-free-green-email-icons-green-email-icon-256_256.png);
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-color: rgb(105, 105, 105);
+  padding-left: 25px;
+  cursor: pointer;
+  font-size: 20px;
+} 
+#say2{
+
+  background-image: url(https://cdn.clipart.email/5dc87792aa0e9f637c3bcc09e92f9cb0_dark-green-globe-clip-art-at-clkercom-vector-clip-art-online-_300-300.png);
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-color: rgb(105, 105, 105);
+  padding-left: 25px;
+  font-size: 20px;
+  cursor: pointer;
+} 
+#uss{
+  cursor: pointer;
+  margin-top: 20px;
+padding-left: 130px;
+  font-size: 20px;
+
+}
+
+#use1{
+  display:block;
+  height:3px;
+  width: 240px;
+  background:lightgrey;
+  margin-top:-10px;
+
+}
+.Contact-us{
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+
+ #foot{
+   font-size: 15px;
+   margin-left: 40px;
+   color: white;
+   padding-top: 10px;
+ }
+ footer{
+   background-color: darkblue;
+ margin-top: -15px;
+ height: 30px;
+ 
+ width: 100%;
+  }
+  
+  a:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+a:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+a:hover { COLOR: white;
+  background-color: darkblue; TEXT-DECORATION: none; t font-weight: none }
+label{
+  cursor: pointer;
+}
+.contact{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.use{
+    font-size: 25px;
+}
